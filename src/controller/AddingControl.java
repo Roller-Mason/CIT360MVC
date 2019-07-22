@@ -6,12 +6,7 @@
 package controller;
 
 import model.AddingModel;
-import view.ErrorView;
 
-/**
- *
- * @author Mason
- */
 public class AddingControl {
     
     public static int addingTwoNumber(String firstNumber, String secondNumber){

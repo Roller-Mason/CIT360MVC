@@ -4,15 +4,7 @@
  * and open the template in the editor.
  */
 package view;
-//import byui.cit260.oregonTrail.control.GameControl;
-//import byui.cit260.oregonTrail.exceptions.GameControlException;
-//import byui.cit260.oregonTrail.model.Player;
-//import java.util.Scanner;
 
-/**
- *
- * @author Mason
- */
 public class StartProgramView extends View{
     
     public StartProgramView(){

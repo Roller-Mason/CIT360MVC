@@ -5,10 +5,6 @@
  */
 package model;
 
-/**
- *
- * @author Mason
- */
 public class AddingModel {
     
     public static int addTwoNumbers(int first, int second){

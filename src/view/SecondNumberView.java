@@ -5,14 +5,8 @@
  */
 package view;
 
-//import byui.cit260.oregonTrail.control.GameControl;
-//import byui.cit260.oregonTrail.control.StatusControl;
-import cit360mvc.CIT360MVC;
 import controller.AddingControl;
-/**
- *
- * @author Mason
- */
+
 public class SecondNumberView extends View{
 
     private final String firstNumber;

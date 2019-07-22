@@ -11,10 +11,6 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import view.StartProgramView;
 
-/**
- *
- * @author Mason
- */
 public class CIT360MVC {
     
     private static PrintWriter outFile = null;

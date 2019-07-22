@@ -9,10 +9,6 @@ import java.io.BufferedReader;
 import java.io.PrintWriter;
 import cit360mvc.CIT360MVC;
 
-/**
- *
- * @author Randy ther Master
- */
 public abstract class View implements ViewInterface{
  
     protected String displayMessage;

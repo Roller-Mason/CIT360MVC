@@ -8,14 +8,10 @@ package view;
 import java.io.PrintWriter;
 import cit360mvc.CIT360MVC;
 
-/**
- *
- * @author Roller
- */
 public class ErrorView {
     
-    private static PrintWriter console = CIT360MVC.getOutFile();
-    private static PrintWriter log = CIT360MVC.getLogFile();
+    private static final PrintWriter console = CIT360MVC.getOutFile();
+    private static final PrintWriter log = CIT360MVC.getLogFile();
     
     public static void display(String className, String errorMessage){
         

@@ -5,10 +5,6 @@
  */
 package view;
 
-/**
- *
- * @author Randy ther Master
- */
 public interface ViewInterface {
     
     public void display();
